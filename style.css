@@ -1,5 +1,7 @@
-<body style="font-family: 'Roboto', sans-serif;">
 <style>
+.body {
+  font-family: Roboto sans-serif;
+}
 * {
     box-sizing: border-box;
     border: 1px solid red;
@@ -84,7 +86,5 @@ html {
   display: flex;
   justify-content: flex-end;
   align-items: center;
- }
-  
+ 
 </style>
-
