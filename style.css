@@ -86,5 +86,8 @@ html {
   display: flex;
   justify-content: flex-end;
   align-items: center;
- 
+ }
+ .img {
+  border: 1px solid darkblue;
+ }
 </style>
